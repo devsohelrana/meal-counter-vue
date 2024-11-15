@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as o}from"./index-BEQA7g3L.js";const a={},c={class:"container mx-auto px-6"},n=o("h1",{class:"text-primary"},"This is an about page",-1),r=[n];function _(i,d){return s(),t("div",c,r)}const f=e(a,[["render",_]]);export{f as default};
